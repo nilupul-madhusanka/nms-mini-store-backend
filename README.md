@@ -38,7 +38,7 @@ ecommerce-backend/
 ```bash
 # Clone the repo
 git clone https://github.com/nilupul-madhusanka/nms-mini-store-backend.git
-cd ecommerce-backend
+cd nms-mini-store-backend
 
 # Install dependencies
 npm install

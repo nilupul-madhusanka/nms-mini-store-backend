@@ -13,6 +13,8 @@ router.use(protect); // all routes protected
 router.get('/', getCart);
 router.post('/add', addToCart);
 router.put('/update', updateCartItem);
-router.delete('/remove/:productId', removeCartItem);
+
+// ✅ Changed route to match frontend DELETE /cart/:productId
+router.delete('/:productId', removeCartItem);
 
 module.exports = router;

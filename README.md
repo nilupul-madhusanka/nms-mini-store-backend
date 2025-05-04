@@ -1,4 +1,4 @@
-# NMS Mini E-commerce Backend - NMS.Dev 2025
+# NMS Mini E-commerce Store Backend - NMS.Dev 2025
 
 A simple RESTful backend built with Node.js, Express, and MongoDB, providing authentication, product management, cart, checkout (demo), and protected admin routes.
 
